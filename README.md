@@ -1,4 +1,4 @@
-# 🛡️ IP Reputation Checker using VirusTotal API
+# 🛡️ Bulk IP Reputation Checker using VirusTotal API
 
 This script checks the reputation of IP addresses using the VirusTotal API and exports the results into an Excel file with detailed analysis.
 
